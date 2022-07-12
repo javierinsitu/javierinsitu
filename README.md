@@ -9,5 +9,5 @@ You can also read some of my articles here:
 - [La milanga electrónica](https://milangaelectronica.com.ar)
 - [Colaboratorio.net](https://colaboratorio.net/author/javierinsitu/)
 
-And of course you can contact me on twitter: []áJavierinsitu](https://twitter.com/JavierInsitu)
+And of course you can contact me on twitter: [Javierinsitu](https://twitter.com/JavierInsitu)
 
